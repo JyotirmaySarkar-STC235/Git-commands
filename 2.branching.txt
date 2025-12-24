@@ -1,0 +1,2 @@
+new branch has been created
+git checkout -b <branch name>
