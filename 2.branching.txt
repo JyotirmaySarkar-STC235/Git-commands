@@ -4,3 +4,5 @@ git checkout -b <branch name>
 git branch <branch name> => just creates new branch
 git switch <b-n> | git checkout <b-n> => switches to branch
 
+git stash
+git stash apply
